@@ -1,4 +1,4 @@
-module github.com/tyokoyama/proglog
+module github.com/tyokoyama/golangcafe/proglog
 
 go 1.20
 
